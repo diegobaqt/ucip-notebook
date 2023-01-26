@@ -1,1 +1,1 @@
-# ucip-notebook
+# UCIP Notebook
